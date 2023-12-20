@@ -15,7 +15,7 @@ Questions:
 
 How many packets were captured (looking at the PacketNumber)?
 
-Command: ```df.count()```
+Code: ```df.count()```
 
 ```
 100
@@ -27,7 +27,7 @@ Command: ```df.count()```
 
 What IP address sent the most amount of traffic during the packet capture?
 
-Command: ```df.groupby(['Source']).size()```
+Code: ```df.groupby(['Source']).size()```
 
 ```
 10.10.1.4
@@ -41,7 +41,7 @@ Command: ```df.groupby(['Source']).size()```
 
 What was the most frequent protocol?
 
-Command: ```df.groupby(['Protocol']).size().sort_values```
+Code: ```df.groupby(['Protocol']).size().sort_values```
 
 ```
 ICMP
