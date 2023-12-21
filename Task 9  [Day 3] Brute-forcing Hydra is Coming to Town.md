@@ -48,12 +48,14 @@ hydra -l '' -P 3digits.txt -f -v 10.10.139.12 http-post-form "/login.php:pin=^PA
 
 <img width="1011" alt="Screenshot 2023-12-22 at 1 49 25 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/bd7f0586-8f45-4e09-b8d4-44c7cad08727">
 
-PIN
+---
+
+PIN:
 ```
 6F5
 ```
 
-flag
+flag:
 ```
 THM{pin-code-brute-force}
 ```
