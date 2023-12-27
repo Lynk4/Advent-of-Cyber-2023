@@ -95,6 +95,40 @@ Answer
 ```
 ---
 
+How many requests were made on the malicious domain in total?
+
+<img width="1440" alt="6" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/1579caaa-1f84-493b-b6a0-6c7b461ea7f0">
+
+
+Command
+```
+cut -d ' ' -f2,3 access.log | grep frostlings.big | wc -l
+```
+
+Answer
+```
+1581
+```
+---
+
+Having retrieved the exfiltrated data, what is the hidden flag?
+
+
+
+
+
+Command
+```
+grep frostlings.bigbadstash.thm access.log | cut -d ' ' -f5 | cut -d '=' -f2 | base64 -d | grep THM
+```
+
+Answer
+```
+THM{a_gift_for_you_awesome_analyst!}
+``
+---
+
+
 
 
 
