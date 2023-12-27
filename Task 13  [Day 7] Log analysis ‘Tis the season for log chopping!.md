@@ -27,3 +27,9 @@ Command
 cut -d ' ' -f2 access.log | sort | uniq -c | sort -n | wc -l
 ```
 
+Answer 
+```
+9
+```
+
+---
