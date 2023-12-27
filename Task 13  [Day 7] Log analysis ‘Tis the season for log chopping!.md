@@ -33,3 +33,20 @@ Answer
 ```
 
 ---
+
+How many unique domains were accessed by all workstations?
+<img width="1440" alt="2" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/2f35bb55-7fb9-42d0-83b4-d5ffb3b37abd">
+
+
+Command
+```
+cut -d ' ' -f3 access.log | cut -d ':' -f1 | sort | uniq -c | sort -n | wc -l
+```
+Answer
+```
+111
+```
+---
+
+
+
