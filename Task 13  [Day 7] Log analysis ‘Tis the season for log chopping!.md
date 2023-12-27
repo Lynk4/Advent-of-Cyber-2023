@@ -113,6 +113,7 @@ Answer
 
 Having retrieved the exfiltrated data, what is the hidden flag?
 
+<img width="1440" alt="7" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/8b33d93b-64a7-4c93-9057-f5a2a7e0b142">
 
 
 
@@ -125,7 +126,7 @@ grep frostlings.bigbadstash.thm access.log | cut -d ' ' -f5 | cut -d '=' -f2 | b
 Answer
 ```
 THM{a_gift_for_you_awesome_analyst!}
-``
+```
 ---
 
 
