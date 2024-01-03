@@ -16,3 +16,21 @@ credentials:
 Username:	```vantwinkle```
 Password:	```TwinkleStar```
 
+---
+
+After Succesfull login Swith to root user
+```
+sudo su -
+```
+
+Now go to ```/home/vantwinkle/```
+
+You will find a script named as ***Van_Twinkle_rules.sh***
+
+Run this script.
+
+<img width="1172" alt="script" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/814209b0-36d7-42b2-b94d-a212cd462bc8">
+
+
+---
+
