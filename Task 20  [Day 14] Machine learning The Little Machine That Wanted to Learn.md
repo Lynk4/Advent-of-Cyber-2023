@@ -9,3 +9,6 @@ Learning Objectives
 - Using neural networks to predict defective toys
 
   
+Start the vm:
+
+open detector.py file present in ```Desktop/NeuralNetwork``` folder:
