@@ -30,4 +30,22 @@ Answer
 0.98
 ```
 
+4. How many of the test emails are marked as spam?
+
+Answer
+```
+3
+```
+
+5. One of the emails that is detected as spam contains a secret code. What is the code?
+
+Answer
+```
+I_Hate_BesT_FestiVal
+```
+
+<img width="1440" alt="Screenshot 2024-01-05 at 5 14 24 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/4aa26534-aa8c-4d02-a319-e4b16efe078f">
+
+
+
 
