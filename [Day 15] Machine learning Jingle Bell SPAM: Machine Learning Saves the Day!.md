@@ -1,5 +1,15 @@
 #  [Day 15] Machine learning Jingle Bell SPAM: Machine Learning Saves the Day!
 
+
+Learning Objectives
+
+- In this task, we will explore:
+- Different steps in a generic Machine Learning pipeline
+- Machine Learning classification and training models
+- How to split the dataset into training and testing data
+- How to prepare the Machine Learning model
+- How to evaluate the model's effectiveness
+
 ---
 This is the continuation of Day 14.
 
