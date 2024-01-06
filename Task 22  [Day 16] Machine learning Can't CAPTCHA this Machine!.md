@@ -77,3 +77,49 @@ Now go to ```http://hqadmin.thm:8000/ ``` and login to get your flag:
 
 ---
 
+QUESTIONS:
+
+1. What key process of training a neural network is taken care of by using a CNN?
+
+ANSWER
+```
+Feature Extraction
+```
+
+2. What is the name of the process used in the CNN to extract the features?
+
+ANSWER
+```
+Convolution
+```
+
+3. What is the name of the process used to reduce the features down?
+
+ANSWER
+```
+Pooling
+```
+
+4. What off-the-shelf CNN did we use to train a CAPTCHA-cracking OCR model?
+
+ANSWER
+```
+Attention OCR
+```
+
+5. What is the password that McGreedy set on the HQ Admin portal?
+
+ANSWER
+```
+ReallyNotGonnaGuessThis
+```
+
+6. What is the value of the flag that you receive when you successfully authenticate to the HQ Admin portal?
+
+ANSWER
+```
+THM{Captcha.Can't.Hold.Me.Back}
+```
+
+---
+
