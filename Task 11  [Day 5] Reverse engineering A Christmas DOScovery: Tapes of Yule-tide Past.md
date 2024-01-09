@@ -41,23 +41,30 @@ BUMASTER.EXE C:\AC2023.BAK
 
 ***Questions:***
 
-How large (in bytes) is the AC2023.BAK file?
+1. How large (in bytes) is the AC2023.BAK file?
+
+ANSWER
 ```
 12,704
 ```
 
-What is the name of the backup program?
+2. What is the name of the backup program?
+
+ANSWER
 ```
 backupmaster3000
 ```
 
-What should the correct bytes be in the backup's file signature to restore the backup properly?
+3. What should the correct bytes be in the backup's file signature to restore the backup properly?
+
+ANSWER
 ```
 41 43
 ```
 
-What is the flag after restoring the backup successfully?
+4. What is the flag after restoring the backup successfully?
 
+ANSWER
 ```
 THM{0LD_5CH00L_C00L_d00D}
 ```
