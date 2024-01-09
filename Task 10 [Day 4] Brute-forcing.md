@@ -55,14 +55,16 @@ wfuzz -c -z file,usernames.txt -z file,passwords.txt --hs "Please enter the corr
 
 Questions:
 
-What is the correct username and password combination? Format username:password
+1. What is the correct username and password combination? Format username:password
 
+ANSWER
 ```
 isaias:Happiness
 ```
 
-What is the flag?
+2. What is the flag?
 
+ANSWER
 ```
 THM{m3rrY4nt4rct1crAft$}
 ```
