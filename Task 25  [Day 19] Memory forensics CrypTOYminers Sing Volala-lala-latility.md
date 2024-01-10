@@ -163,6 +163,9 @@ strings miner.10280.0x400000 | grep http://
 6. After reading the elfie file, what location is the mysqlserver process dropped in on the file system?
 
 ANSWER
+```
+/var/tmp/.system-python3.8-Updates/mysqlserver
+```
 
 run 
 ```
