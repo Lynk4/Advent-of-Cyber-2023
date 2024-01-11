@@ -39,4 +39,64 @@ so let's take a look..
 
 <img width="1440" alt="Screenshot 2024-01-12 at 3 36 28 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/6ff9c43f-4ed1-4e77-843c-e1be64fa704a">
 
- 
+---
+
+
+***BACK TO THE QUESTIONS***
+
+1. What is the handle of the developer responsible for the merge changes?
+
+ANSWER
+```
+BadSecOps
+```
+
+<img width="1440" alt="Screenshot 2024-01-12 at 3 39 41 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/64a24347-27bd-4234-96a7-815539588d98">
+
+---
+
+2. What port is the defaced calendar site server running on?
+
+ANSWER
+```
+9081
+```
+
+---
+
+3. What server is the malicious server running on?
+
+ANSWER
+```
+apache
+```
+
+<img width="1440" alt="Screenshot 2024-01-12 at 3 42 12 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/4d63f3e4-0015-40bc-ab1f-5a5b95bde6ee">
+
+---
+
+4. What message did the Frostlings leave on the defaced site?
+
+ANSWER
+```
+frostlings rule :)
+```
+
+<img width="1440" alt="Screenshot 2024-01-12 at 3 36 28 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/728e9671-1d00-48c7-9d65-55c797c1fcd0">
+
+---
+
+5. What is the commit ID of the original code for the Advent Calendar site?
+
+ANSWER
+```
+986b7407
+```
+
+<img width="1440" alt="Screenshot 2024-01-12 at 3 46 27 AM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/3ae2f006-a786-4721-a55e-b91c937a1831">
+
+
+---
+
+
+
