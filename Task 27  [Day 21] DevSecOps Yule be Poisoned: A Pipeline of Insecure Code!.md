@@ -90,6 +90,9 @@ Perform the same procedure to obatain the secret key
 
 edit Makefile 
 
+<img width="930" alt="Screenshot 2024-01-13 at 4 54 32 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/2bb868bd-e887-4aa4-aa60-365ee8742b10">
+
+
 then push it..
 
 ---
