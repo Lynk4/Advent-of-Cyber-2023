@@ -6,6 +6,7 @@ Access the room [advent of cyber 2023](https://tryhackme.com/room/adventofcyber2
 
 ---
 <img width="1440" alt="Screenshot 2023-12-19 at 9 25 03 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/e25c0c5c-3267-4bce-807f-5815a1e8fe27">
+
 ---
 
 Topics that will be covered in the event are:
