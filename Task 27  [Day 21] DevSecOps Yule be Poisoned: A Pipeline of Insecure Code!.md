@@ -78,6 +78,8 @@ ANSWER
 
 <img width="1044" alt="Screenshot 2024-01-13 at 4 47 55 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/69ac12df-0841-4556-8137-983c21de8450">
 
+---
+
 2. What value is found from /var/lib/jenkins/secret.key?
 
 ANSWER
