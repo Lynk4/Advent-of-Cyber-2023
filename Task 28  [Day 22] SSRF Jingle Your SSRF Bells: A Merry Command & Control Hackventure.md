@@ -65,6 +65,7 @@ ANSWER
 1.1
 ```
 
+---
 
 3.What is the username for accessing the C2 panel?
 
@@ -73,6 +74,7 @@ ANSWER
 mcgreedy
 ```
 
+---
 
 4. What is the flag value after accessing the C2 panel?
 
@@ -80,6 +82,8 @@ ANSWER
 ```
 THM{EXPLOITED_31001}
 ```
+
+---
 
 5. What is the flag value after stopping the data exfiltration from the McSkidy computer?
 
