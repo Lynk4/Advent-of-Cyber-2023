@@ -19,7 +19,7 @@ In Autopsy open the case McGreedy.aut
 
 After it loads the case:
 
-open images:
+Open up Images sort it by Thumbnail
 
 
 <img width="1440" alt="Screenshot 2024-01-15 at 5 16 51 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/492c365a-9367-499a-9dff-0b4f5ef7fe68">
@@ -39,9 +39,7 @@ ANSWER
 ```
 THM{DIGITAL_FORENSICS}
 ```
-Open up Images sor it by Thumbnail
 
-<img width="1440" alt="Screenshot 2024-01-15 at 5 16 51 PM" src="https://github.com/Lynk4/Advent-of-Cyber-2023/assets/44930131/9f3df876-2025-45b7-a3ff-2f3b08312e19">
 
 ---
 
